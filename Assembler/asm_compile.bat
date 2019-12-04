@@ -1,0 +1,1 @@
+C:\Users\krc\AppData\Local\Continuum\anaconda3\python assembler.py -i C:\Xilinx\13May2019\CpuDesign\Genie\LoadMemory.asm -o C:\Xilinx\13May2019\CpuDesign\Genie\LoadMemory.hex

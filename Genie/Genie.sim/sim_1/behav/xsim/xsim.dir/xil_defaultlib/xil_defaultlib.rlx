@@ -1,0 +1,22 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Xilinx/13May2019/CpuDesign/Genie/CpuTop.v,1557751567,verilog,,,C:/Xilinx/13May2019/CpuDesign/Genie/Parameters.v;C:/Xilinx/13May2019/CpuDesign/Genie/InstructionSet.v;C:/Xilinx/13May2019/CpuDesign/Genie/InstructionMemory.v;C:/Xilinx/13May2019/CpuDesign/Genie/InstructionFetch.v;C:/Xilinx/13May2019/CpuDesign/Genie/InstructionFetch2Decode.v;C:/Xilinx/13May2019/CpuDesign/Genie/Register.v;C:/Xilinx/13May2019/CpuDesign/Genie/InstructionDecode.v;C:/Xilinx/13May2019/CpuDesign/Genie/InstructionDecode2Execute.v;C:/Xilinx/13May2019/CpuDesign/Genie/ExecutionUnit.v;C:/Xilinx/13May2019/CpuDesign/Genie/EXE_MEM.v;C:/Xilinx/13May2019/CpuDesign/Genie/DataMemory.v;C:/Xilinx/13May2019/CpuDesign/Genie/Memory.v;C:/Xilinx/13May2019/CpuDesign/Genie/MemoryWriteBack.v;C:/Xilinx/13May2019/CpuDesign/Genie/WriteBack.v;C:/Xilinx/13May2019/CpuDesign/Genie/WB_out.v,CpuTop,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/DataMemory.v,1557751567,verilog,,,,DataMemory,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/EXE_MEM.v,1557751567,verilog,,,,PipelineIExec2Memory,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/ExecutionUnit.v,1557777269,verilog,,,,InstructionExecution,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/Genie.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/InstructionDecode.v,1557751567,verilog,,,,InstructionDecode,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/InstructionDecode2Execute.v,1557751567,verilog,,,,PipelineIdecode2Exec,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/InstructionFetch.v,1557751567,verilog,,,C:/Xilinx/13May2019/CpuDesign/Genie/InstructionMemory.v,InstructionFetch,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/InstructionFetch2Decode.v,1557751567,verilog,,,,PipelineIfetch2Idecode,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/InstructionMemory.v,1557751567,verilog,,,,InstructionMemory,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/InstructionSet.v,1557751567,verilog,,,,,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/Memory.v,1557751567,verilog,,,C:/Xilinx/13May2019/CpuDesign/Genie/DataMemory.v,DataMemoryCntrl,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/MemoryWriteBack.v,1557751567,verilog,,,,PipelineMem2Writeback,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/Parameters.v,1557751567,verilog,,,,,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/Register.v,1557784760,verilog,,,,RegisterFile,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/WB_out.v,1557751567,verilog,,,,PipelineWriteback2Chip,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/WriteBack.v,1557751567,verilog,,,,WriteBack,,,,,,,,
+C:/Xilinx/13May2019/CpuDesign/Genie/tb_CpuTop.v,1557751568,verilog,,,C:/Xilinx/13May2019/CpuDesign/Genie/CpuTop.v,tb_CpuTop,,,../../../../,,,,,

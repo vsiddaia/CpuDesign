@@ -1,0 +1,17 @@
+  1)            LDI R0, 15 => 4000000f  ;   1)   LDI r0, 15	;load r0 with 0 
+  2)             LDI R2, 1 => 40400001  ;   2)   ldi r2, 1 
+  3)            LDI R3, 20 => 40600014  ;   3)   ldi r3, 20 
+  4)             LDI R1, 1 => 40200001  ;   4)   ldi r1, 1 
+  5)         SD R1, R15, 0 => 582f0000  ;   5)   sd r1, r15, 0 
+  6)        ADDI R3, R3, 1 => 30630001  ;   6)   addi r3, r3, 1 
+  7)          SD R2, R3, 0 => 58430000  ;   7)   sd r2, r3, 0 
+  8)        ADDI R3, R3, 1 => 30630001  ;   8)   addi r3, r3, 1 ; This is a comment .... 
+  9)             LDI R5, 7 => 40a00007  ;   9)   ldi r5, 7 
+ 10)        ADD R4, R1, R2 => 04811000  ;  10)   Label: add r4, r1, r2 
+ 11)          SD R4, R3, 0 => 58830000  ;  11)   sd r4, r3, 0 
+ 12)        ADDI R3, R3, 1 => 30630001  ;  12)   addi r3, r3, 1 
+ 13)            MOV R1, R2 => 88220000  ;  13)   mov r1, r2 
+ 14)            MOV R2, R4 => 88440000  ;  14)   mov r2, r4 
+ 15)       ADDI R5, R5, -1 => 30a5ffff  ;  15)   addi r5, r5, -1 
+ 16)        BGEZ R5, LABEL => 70a0ffe4  ;  16)   bgez r5, Label 
+ 17)                  HALT => fc000000  ;  17)   halt 

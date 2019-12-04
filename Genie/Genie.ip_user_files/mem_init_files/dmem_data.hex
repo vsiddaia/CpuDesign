@@ -1,0 +1,24 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/tb_CpuTop/CpuTop/DataMemoryCntrl/DataMemory/dmem
+// format=hex addressradix=h dataradix=h version=1.0 wordsperline=1 noaddress
+00
+00
+00
+01
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+xx
+xx

@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Xilinx/13May2019/CpuDesign/Genie/tb_CpuTop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module InstructionMemory
+INFO: [VRFC 10-311] analyzing module InstructionMemory
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'InstructionMemory' [../../../../InstructionMemory.v:6]
+INFO: [VRFC 10-311] analyzing module InstructionFetch
+INFO: [VRFC 10-311] analyzing module PipelineIfetch2Idecode
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-311] analyzing module InstructionDecode
+INFO: [VRFC 10-311] analyzing module PipelineIdecode2Exec
+INFO: [VRFC 10-311] analyzing module InstructionExecution
+INFO: [VRFC 10-311] analyzing module PipelineIExec2Memory
+INFO: [VRFC 10-311] analyzing module DataMemory
+INFO: [VRFC 10-311] analyzing module DataMemory
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'DataMemory' [../../../../DataMemory.v:6]
+INFO: [VRFC 10-311] analyzing module DataMemoryCntrl
+INFO: [VRFC 10-311] analyzing module PipelineMem2Writeback
+INFO: [VRFC 10-311] analyzing module WriteBack
+INFO: [VRFC 10-311] analyzing module PipelineWriteback2Chip
+INFO: [VRFC 10-311] analyzing module CpuTop
+INFO: [VRFC 10-311] analyzing module tb_CpuTop
