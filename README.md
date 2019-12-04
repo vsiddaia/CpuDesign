@@ -12,4 +12,4 @@
 ---
 
 
-![image](https://git.txstate.edu/v-s191/CpuDesign/blob/master/Genie/BlockDiagrams/GenieCPUBlockDiagram.png)
+![image](https://github.com/vittalsiddaiah/CpuDesign/blob/master/Genie/BlockDiagrams/GenieCPUBlockDiagram.png)
